@@ -1,5 +1,4 @@
-# Problem #:UVA Problem Set Volume1 102
-# Level: easy
+# Problem #:102 Level: easy
 
 #Descirption: 
 Recycling glass requires that the glass be separated by color into one of three categories: brown glass, green glass, and clear glass. In this problem you will be given three recycling bins, each containing a specified number of brown, green and clear bottles. In order to be recycled, the bottles will need to be moved so that each bin contains bottles of only one color.
