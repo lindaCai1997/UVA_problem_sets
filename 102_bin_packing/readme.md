@@ -7,6 +7,10 @@ The problem is to minimize the number of bottles that are moved. You may assume 
 
 For the purposes of this problem, each bin has infinite capacity and the only constraint is moving the bottles so that each bin contains bottles of a single color. The total number of bottles will never exceed 2^31.
 
+## Things to take care of:
+1) The priority of the "BCG" are decided by character order(e.g. B  has higher priority than C)
+2) Be careful about the limit of bottle input (unsigned short is a bad idea)
+
 ## My solution: 
 Brutal force. I used a string array to store the order of "GBC" strings to avoid having to think about it later. And then looped through each possibility (of bin orders). 
 
