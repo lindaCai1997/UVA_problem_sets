@@ -1,11 +1,9 @@
 # Problem #:102     Level: easy
 
 ## Descirption: 
-Recycling glass requires that the glass be separated by color into one of three categories: brown glass, green glass, and clear glass. In this problem you will be given three recycling bins, each containing a specified number of brown, green and clear bottles. In order to be recycled, the bottles will need to be moved so that each bin contains bottles of only one color.
+We have 3 bins with mixed kinds of bottles in it. The problem is to minimize the number of bottles moved to make  each bin contain same color of glasses. You may assume that the only problem is to minimize the number of movements between boxes.
 
-The problem is to minimize the number of bottles that are moved. You may assume that the only problem is to minimize the number of movements between boxes.
-
-For the purposes of this problem, each bin has infinite capacity and the only constraint is moving the bottles so that each bin contains bottles of a single color. The total number of bottles will never exceed 2^31.
+Each bin has infinite capacity. The total number of bottles will never exceed 2^31.
 
 ## Things to take care of:
 1) The priority of the "BCG" are decided by character order(e.g. B  has higher priority than C)
