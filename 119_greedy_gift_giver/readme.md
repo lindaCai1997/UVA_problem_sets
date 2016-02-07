@@ -1,4 +1,4 @@
-# Problem #:110 Level: easy
+# Problem #:110     Level: easy
 
 ## Descirption: 
 
