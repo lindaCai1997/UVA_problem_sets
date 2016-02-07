@@ -2,7 +2,7 @@
 
 ## Descirption: 
 
-Given a group of friends, calculate the money each person in the group spends on gifts, and a (sub)list of friends to whom each person gives gifts; you are to write a program that determines how much more (or less) each person in the group gives than they receive.
+Given a group of friends, calculate the money each person in the group spends on gifts, and a (sub)list of friends to whom each person gives gifts. You are to write a program that determines how much more (or less) each person in the group gives than they receive.
 
 ## Things to be careful about:
 1) After the last set of input, don't print an additional line
