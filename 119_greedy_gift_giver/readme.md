@@ -15,6 +15,6 @@ Given a group of friends, calculate the money each person in the group spends on
 
 
 ## My solution: 
-I used 2 map<string, int> to store how much everyone gives and takes and an array to store names.
+I used 2 maps to store how much everyone gives and takes and an array to store names.
 At the beginning of each set of data I initialized hen I looped through each person's line to modify eople's give and take value.
 After each data set I cleared both maps.
