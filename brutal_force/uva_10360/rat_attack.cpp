@@ -43,7 +43,6 @@ int main(){
                 for (int k = y1; k <= y2; k++){
                     result[j][k] += p;
                 }
-
             }
         }
         x = 0; y = 0;
@@ -53,9 +52,7 @@ int main(){
                     x = i;
                     y = j;
                 }
-
             }
-
         }
         printf("%d %d %d\n", x, y, result[x][y]);
         scene--;
