@@ -1,6 +1,6 @@
 # Problem #:110     Level: easy
 
-## Descirption: 
+## Description: 
 
 Given a group of friends, calculate the money each person in the group spends on gifts, and a (sub)list of friends to whom each person gives gifts. You are to write a program that determines how much more (or less) each person in the group gives than they receive.
 
