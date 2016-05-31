@@ -1,0 +1,17 @@
+test: 
+162
+17
+34012226
+2
+9
+18
+4294967294
+
+result:
+Stan wins.
+Ollie wins.
+Stan wins.
+Stan wins.
+Stan wins.
+Ollie wins.
+Stan wins.
