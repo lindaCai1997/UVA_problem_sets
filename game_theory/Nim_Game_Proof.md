@@ -1,8 +1,8 @@
 # The Nim Game
 ## Problem Description:
-      In Nim game, two players take turns to remove objects from distinct heaps. On each turn, a player must remove at least one object
-      and may remove any number of objects provided that they all come from the same heap. The initial state of the game is the number
-      of objects ni at each of the k heaps: {n1, n2, ..., nk}
+      In Nim game, two players take turns to remove objects from distinct heaps. On each turn, a player must remove at 
+      least one object and may remove any number of objects provided that they all come from the same heap. The initial
+      state of the game is the number of objects ni at each of the k heaps: {n1, n2, ..., nk}
 
 ## Solution:
       define player1 = player who plays first
