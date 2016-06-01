@@ -1,0 +1,14 @@
+test:
+5
+4
+33
+771
+343
+3
+
+result:
+Case 1: S
+Case 2: T
+Case 3: T
+Case 4: S
+Case 5: S
