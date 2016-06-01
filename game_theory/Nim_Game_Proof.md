@@ -12,10 +12,10 @@
       else player2 win
 
 ## Proof
-1) if k = 1, heaps = {n1}, n1 != 0, player1 should win
+#### 1) if k = 1, heaps = {n1}, n1 != 0, player1 should win
       the first player can remove n1 elements from the first group and win, {n1} is a win state
 
-2) if k = 2, heaps = {n1, n2}
+#### 2) if k = 2, heaps = {n1, n2}
       2.1) n1^n2 = 0, then n1 = n2, assume i,j ∈ {1, 2}, i != j
              If player1 removes ni elements from ni, heaps = {nj}, a win state for player2
              
